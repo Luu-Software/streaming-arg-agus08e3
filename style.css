@@ -40,3 +40,34 @@ footer {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+h1 {
+ color: #FFFFFF;
+font-size: 96px;
+font-weight: 600;
+letter-spacing: -2.67px;
+}
+h2 {
+font-size: 32px;
+font-weight: 400;
+color: #e2e2e2;
+letter-spacing: 0.67px;
+}
+
+
+
+
+
+
+body {
+
+
+
+  background-color: #030026;
+  background-image: url("img/Fondo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment:
+  height: 100vh;
+  margin: 0;
+}
